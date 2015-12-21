@@ -1,0 +1,12 @@
+{
+   "parent": "block/cube",
+   "textures": {
+        "down": "quidditch:blocks/quidditchChest",
+        "up": "quidditch:blocks/quidditchChest",
+        "north": "quidditch:blocks/quidditchChest",
+        "south": "quidditch:blocks/quidditchChest",
+        "west": "quidditch:blocks/quidditchChest",
+        "east": "quidditch:blocks/quidditchChest",
+        "particle": "quidditch:blocks/quidditchChest",
+   }
+}
